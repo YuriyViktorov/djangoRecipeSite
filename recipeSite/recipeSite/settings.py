@@ -26,7 +26,9 @@ SECRET_KEY = 'django-insecure-8wy$@$cc%z$8bw7t=%o&q7jmc%#3+#^moa30np%qwtb!(35fb-
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    '127.0.0.1',
+]
 
 
 # Application definition
@@ -140,7 +142,7 @@ LOGGING = {
         },
         'file': {
             'class': 'logging.FileHandler',
-            'filename': './logs/django.log',
+            'filename': './log/django.log',
             'formatter': 'verbose',
             'encoding': 'utf-8',
         },
@@ -150,7 +152,7 @@ LOGGING = {
             'handlers': ['console', 'file'],
             'level': 'INFO',
         },
-        'hw1app': {
+        'recipeSiteapp': {
             'handlers': ['console', 'file'],
             'level': 'DEBUG',
             'propagate': True,
@@ -165,7 +167,7 @@ LOGGING = {
 #     messages.INFO: 'info',
 # }
 
-AUTH_USER_MODEL = "recipebookapp.CustomUser"  # для кастомной модели пользователя
+AUTH_USER_MODEL = "recipeSiteapp.CustomUser"
 
 AUTHENTICATION_BACKENDS = (
     'django.contrib.auth.backends.ModelBackend',
