@@ -4,6 +4,7 @@ from django.urls import path
 
 # from recipeSite import settings
 from . import views
+from ..recipeSite import settings
 
 urlpatterns = [
     path('', views.index, name='index'),
@@ -17,7 +18,7 @@ urlpatterns = [
     path('recipe_delete/<int:recipe_id>', views.recipe_delete, name='recipe_delete'),
 ]
 
-# urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
+urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
 
 handler404 = views.handler404
 
