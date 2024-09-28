@@ -179,3 +179,18 @@ INFO 2024-09-27 22:17:43,721 autoreload 4408 3240 Watching for file changes with
 INFO 2024-09-27 22:33:42,801 autoreload 12448 4444 Watching for file changes with StatReloader
 INFO 2024-09-27 22:34:38,365 autoreload 15208 12644 Watching for file changes with StatReloader
 INFO 2024-09-27 23:08:19,288 autoreload 1028 2576 Watching for file changes with StatReloader
+INFO 2024-09-27 23:13:01,703 autoreload 2384 8472 Watching for file changes with StatReloader
+INFO 2024-09-27 23:15:57,023 autoreload 11384 13764 Watching for file changes with StatReloader
+INFO 2024-09-27 23:28:32,172 autoreload 8024 10344 Watching for file changes with StatReloader
+INFO 2024-09-28 19:40:32,117 autoreload 11616 4292 Watching for file changes with StatReloader
+INFO 2024-09-28 19:55:15,128 autoreload 11616 4292 C:\Django\Final certification\djangoRecipeSite\recipeSite\recipeSite\settings.py changed, reloading.
+INFO 2024-09-28 19:55:25,209 autoreload 15036 6072 Watching for file changes with StatReloader
+INFO 2024-09-28 19:55:43,088 autoreload 13936 17048 Watching for file changes with StatReloader
+INFO 2024-09-28 20:14:39,244 autoreload 5228 488 Watching for file changes with StatReloader
+INFO 2024-09-28 20:27:22,313 autoreload 11868 12628 Watching for file changes with StatReloader
+INFO 2024-09-28 20:27:43,394 autoreload 11868 12628 C:\Django\Final certification\djangoRecipeSite\recipeSite\recipeSiteapp\urls.py changed, reloading.
+INFO 2024-09-28 20:27:45,275 autoreload 8556 1352 Watching for file changes with StatReloader
+INFO 2024-09-28 20:47:53,361 autoreload 8556 1352 C:\Django\Final certification\djangoRecipeSite\recipeSite\recipeSite\settings.py changed, reloading.
+INFO 2024-09-28 20:47:55,113 autoreload 9036 12124 Watching for file changes with StatReloader
+INFO 2024-09-28 20:56:06,375 autoreload 9036 12124 C:\Django\Final certification\djangoRecipeSite\recipeSite\recipeSiteapp\urls.py changed, reloading.
+INFO 2024-09-28 20:56:08,083 autoreload 10420 2536 Watching for file changes with StatReloader
