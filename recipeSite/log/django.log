@@ -194,3 +194,7 @@ INFO 2024-09-28 20:47:53,361 autoreload 8556 1352 C:\Django\Final certification\
 INFO 2024-09-28 20:47:55,113 autoreload 9036 12124 Watching for file changes with StatReloader
 INFO 2024-09-28 20:56:06,375 autoreload 9036 12124 C:\Django\Final certification\djangoRecipeSite\recipeSite\recipeSiteapp\urls.py changed, reloading.
 INFO 2024-09-28 20:56:08,083 autoreload 10420 2536 Watching for file changes with StatReloader
+INFO 2024-09-28 21:27:58,542 autoreload 12756 14344 Watching for file changes with StatReloader
+INFO 2024-09-28 21:32:45,913 autoreload 4980 2484 Watching for file changes with StatReloader
+INFO 2024-09-29 21:20:20,537 autoreload 12528 17092 Watching for file changes with StatReloader
+INFO 2024-09-29 21:35:46,645 autoreload 11632 9440 Watching for file changes with StatReloader
