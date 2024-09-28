@@ -2,7 +2,7 @@ from django.conf.urls.static import static
 # from django.conf.urls import handler404, handler500
 from django.urls import path
 
-from . import views
+from ..recipeSiteapp import views
 from ..recipeSite import settings
 
 urlpatterns = [
